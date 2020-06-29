@@ -1,0 +1,9 @@
+<resources>
+
+
+    <string name="app_name">Crime Scene Application</string>
+    <string name="video_button">Video Record Button</string>
+    <string name="camera_button">Camera Capture Button</string>
+</resources>
+
+

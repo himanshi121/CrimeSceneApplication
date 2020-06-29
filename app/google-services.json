@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "673058698295",
+    "firebase_url": "https://crimesceneapplication-345be.firebaseio.com",
+    "project_id": "crimesceneapplication-345be",
+    "storage_bucket": "crimesceneapplication-345be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673058698295:android:b091cb87f34c1f906e3bb2",
+        "android_client_info": {
+          "package_name": "com.example.CrimeSceneApplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673058698295-305pe26cfs60dk51lgs4skilr3vqqgkv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.CrimeSceneApplication",
+            "certificate_hash": "f3539d06feda3b28d0edf0a608ca522df5ea19b6"
+          }
+        },
+        {
+          "client_id": "673058698295-vik4b8q24pvbvsfc0hfvuagqr03f320o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyRUXiCaPwJSQXvZO_5GeJuX-5uHiVu_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673058698295-vik4b8q24pvbvsfc0hfvuagqr03f320o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
